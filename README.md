@@ -4,6 +4,7 @@
 ##### Walker
 ##### Maria Luiza
 ##### Benn
+##### Kennyo
 
 ### DataSets:
 #### B3 Dados
@@ -32,6 +33,6 @@ https://www.kaggle.com/code/stpeteishii/istanbul-stock-prediction-lstm/data
 ##### Walker
 ##### Maria Luiza
 ##### Benn
-
+##### Kennyo
 
 
