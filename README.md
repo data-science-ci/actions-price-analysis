@@ -2,7 +2,7 @@
 
 ### Data Analysts:
 - Walker
-- Maria Luiza
+- Maria Luiza Leite dos Santos
 - Benn Arthur de Souza Fonseca Amaral
 - Kennyo
 
@@ -23,10 +23,10 @@ https://www.kaggle.com/code/stpeteishii/istanbul-stock-prediction-lstm/data
 
 ### Analistas de dados:
 - Walker
-- Maria Luiza
+- Maria Luiza Leite dos Santos
 - Benn Arthur de Souza Fonseca Amaral
 - Kennyo
-- 
+
 ### Queremos responder as perguntas a seguir
  - Existe um melhor mês para investir no ativo?
  - 
