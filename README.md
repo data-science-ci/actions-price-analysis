@@ -29,7 +29,7 @@ https://www.kaggle.com/code/stpeteishii/istanbul-stock-prediction-lstm/data
 
 ### Queremos responder as perguntas a seguir
  - Existe um melhor mês para investir no ativo?
- - 
+ - Qual o dia que a ação mais variou?
  - 
 
 ### DataSets:
