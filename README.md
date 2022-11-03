@@ -1,7 +1,7 @@
 # Stock price forecasts
 
 ### Data Analysts:
-- Walker
+- Walker Teotônio Correia de Barros
 - Maria Luiza Leite dos Santos
 - Benn Arthur de Souza Fonseca Amaral
 - Kennyo Wescley Elias Cavalcante
@@ -22,10 +22,10 @@ https://www.kaggle.com/code/stpeteishii/istanbul-stock-prediction-lstm/data
 ### Previsões de valor de ações (PT-BR)
 
 ### Analistas de dados:
-- Walker
+- Walker Teotônio Correia de Barros
 - Maria Luiza Leite dos Santos
 - Benn Arthur de Souza Fonseca Amaral
-- Kennyo
+- Kennyo Wescley Elias Cavalcante
 
 ### Queremos responder as perguntas a seguir
  - Existe um melhor mês para investir no ativo?
