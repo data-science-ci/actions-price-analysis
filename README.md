@@ -16,8 +16,8 @@ https://www.kaggle.com/code/stpeteishii/istanbul-stock-prediction-lstm/data
 
 ### We want to answer the following questions:
  - Is there a best month to invest in the asset?
- - 
- - 
+ - On which day did the stock change the most?
+ - What was the stock's biggest rally for the month and how long did it hold?
 
 ### Previsões de valor de ações (PT-BR)
 
@@ -30,7 +30,7 @@ https://www.kaggle.com/code/stpeteishii/istanbul-stock-prediction-lstm/data
 ### Queremos responder as perguntas a seguir
  - Existe um melhor mês para investir no ativo?
  - Qual o dia que a ação mais variou?
- - 
+ - Qual foi o maior topo da ação no mês e por quanto tempo ele se manteve?
 
 ### DataSets:
 
