@@ -4,7 +4,7 @@
 - Walker
 - Maria Luiza Leite dos Santos
 - Benn Arthur de Souza Fonseca Amaral
-- Kennyo
+- Kennyo Wescley Elias Cavalcante
 
 ### DataSets:
 
