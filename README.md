@@ -47,6 +47,7 @@ Para obter os dados necessários para a análise da amostra, foi necessário uti
 O segundo passo foi adequar os tipos de dados as necessidades da nossa amostra
 
 #### Remoção de Dados Ruídosos 
+
 Durante o pré-processamento, também foram encontrados dados que não fazem sentido para análise, ou que estavam absurdamente discrepantes do contexto da aplicação, causado provavelmente por erros na coleta, dessa forma, foi necessário eliminar registros que poderiam causar problemas nas medidas obtidas
 -------------------------------------------------------------------------
 #### Análise de Colunas
