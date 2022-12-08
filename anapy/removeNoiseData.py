@@ -1,6 +1,10 @@
 
-## Corrigir
-
+'''
+This function should
+1- receive a dataframe
+2- a column to analysis
+So if have null data, remove the registers
+'''
 def removeNoiseData(df , column , rwidth):
   plt.hist(x = column , rwidth = rwidth)
   column_data = {

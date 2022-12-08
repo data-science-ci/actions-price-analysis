@@ -1,4 +1,6 @@
-
+'''
+Receive a numpy object and return the shifiting_range 
+'''
 def shifting_range(numpy_arr):
     import numpy as np
     input_arr = numpy_arr
