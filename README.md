@@ -49,7 +49,7 @@ O segundo passo foi adequar os tipos de dados as necessidades da nossa amostra
 #### Remoção de Dados Ruídosos 
 
 Durante o pré-processamento, também foram encontrados dados que não fazem sentido para análise, ou que estavam absurdamente discrepantes do contexto da aplicação, causado provavelmente por erros na coleta, dessa forma, foi necessário eliminar registros que poderiam causar problemas nas medidas obtidas
--------------------------------------------------------------------------
+
 #### Análise de Colunas
 Colunas com grandes números de erros nos registros e que não eram relevantes para a amostra, foram removidas. Essas colunas foram identificadas com base na análise da medidas de tedência central das mesmas
 
