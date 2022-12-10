@@ -7,9 +7,9 @@
 - Kennyo Wescley Elias Cavalcante
 
 ### We want to answer the following questions
- - Is there a best month to invest in the asset?
- - What was the day that the stock fluctuated the most?
- - What was the highest top of the stock in the month and for how long did it hold?
+ - What's the company with biggest potential in returning the investment?
+ - What was the day that the stock fluctuated the most between PETRE and COGNE in the 2 last months?
+ - Is there any correlation between columns?
 
 ### Data used:
 
@@ -53,9 +53,9 @@ Translated with www.DeepL.com/Translator (free version)
 - Kennyo Wescley Elias Cavalcante
 
 ### Queremos responder as perguntas a seguir
- - Existe um melhor mês para investir no ativo?
- - Qual o dia que a ação mais variou?
- - Qual foi o maior topo da ação no mês e por quanto tempo ele se manteve?
+ - Qual a empresa com maior probabilidade de retorno?
+ - Nos últimos dois meses qual o dia que a ação mais variou na PETRE e na COGNE?
+ - Existe alguma correlação entre as colunas?
 
 ### Dados utilizados:
 
