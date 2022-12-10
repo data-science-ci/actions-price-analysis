@@ -1,23 +1,49 @@
-# Stock price forecasts
+## Stock value forecasts (EN)
 
-### Data Scientists:
+### Data analysts:
 - Walker Teotônio Correia de Barros
 - Maria Luiza Leite dos Santos
 - Benn Arthur de Souza Fonseca Amaral
 - Kennyo Wescley Elias Cavalcante
 
+### We want to answer the following questions
+ - Is there a best month to invest in the asset?
+ - What was the day that the stock fluctuated the most?
+ - What was the highest top of the stock in the month and for how long did it hold?
+
+### Data used:
 
 #### B3 Data
-https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/
+https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/series-historicas/
 
+#### Preprocessing
 
-### We want to answer the following questions:
- - Is there a best month to invest in the asset?
- - On which day did the stock change the most?
- - What was the stock's biggest rally for the month and how long did it hold?
+##### Structuring
 
+###### Column naming
+To obtain the data needed for the sample analysis, it was necessary to use some data preprocessing techniques. As our sample was derived from a txt file, and the columns were not named, it was necessary to do this manually using the .columns attribute, and to adjust the values with commas.
 
+###### Correcting the data types
+The second step was to adjust the data types to the needs of our sample
 
+#### Removing Noisy Data 
+During pre-processing, we also found data that did not make sense for analysis, or that were absurdly discrepant from the context of the application, probably caused by errors in the collection, so it was necessary to eliminate records that could cause problems in the measurements obtained
+-------------------------------------------------------------------------
+#### Column Analysis
+Columns with large numbers of errors in the records that were not relevant to the sample were removed. These columns were identified based on analysis of their central tendency measures
+
+#### Conclusions
+
+##### Results
+
+##### Limitations 
+
+##### Future work
+ - Anapy Module
+
+##### Improvements
+
+Translated with www.DeepL.com/Translator (free version)
 # Previsões de valor de ações (PT-BR)
 
 ### Analistas de dados:
