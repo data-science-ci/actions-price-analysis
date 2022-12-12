@@ -7,9 +7,9 @@
 - Kennyo Wescley Elias Cavalcante
 
 ### We want to answer the following questions
- - What's the company with biggest potential in returning the investment?
- - What's the difference in stocks between PETRE and COGNE?
- - Is there any correlation between columns?
+ - Which company has the highest probability of return in a one-month period?
+ - What are the differences in PETRE and COGNE stocks?
+ - Which company had the highest rate of change in price in the last trade?
 
 ### Data used:
 
@@ -53,9 +53,9 @@ Translated with www.DeepL.com/Translator (free version)
 - Kennyo Wescley Elias Cavalcante
 
 ### Queremos responder as perguntas a seguir
- - Qual a empresa com maior probabilidade de retorno?
- - Qual a diferença das ações entre PETRE e COGNE?
- - Existe alguma correlação entre as colunas?
+ -  Qual a empresa com maior probabilidade de retorno no período de um mês?
+ -  Quais as diferenças nas ações da PETRE e da COGNE?
+ -  Qual empresa teve a maior taxa de variação no preço do último negócio?
 
 ### Dados utilizados:
 
