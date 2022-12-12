@@ -8,7 +8,7 @@
 
 ### We want to answer the following questions
  - What's the company with biggest potential in returning the investment?
- - What was the day that the stock fluctuated the most between PETRE and COGNE in the 2 last months?
+ - What's the difference in stocks between PETRE and COGNE?
  - Is there any correlation between columns?
 
 ### Data used:
@@ -54,7 +54,7 @@ Translated with www.DeepL.com/Translator (free version)
 
 ### Queremos responder as perguntas a seguir
  - Qual a empresa com maior probabilidade de retorno?
- - Nos últimos dois meses qual o dia que a ação mais variou na PETRE e na COGNE?
+ - Qual a diferença das ações entre PETRE e COGNE?
  - Existe alguma correlação entre as colunas?
 
 ### Dados utilizados:
